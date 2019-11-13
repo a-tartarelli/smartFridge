@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['max_5falimenti_5fesaurimento',['MAX_ALIMENTI_ESAURIMENTO',['../strutture__dati_8h.html#ad8d4dd0b25adf523b5b59621e0ad460d',1,'strutture_dati.h']]],
+  ['max_5falimenti_5fricerca',['MAX_ALIMENTI_RICERCA',['../strutture__dati_8h.html#ac8cc1ce4e16a2339868ff09a7a6a3890',1,'strutture_dati.h']]],
+  ['max_5fanno',['MAX_ANNO',['../strutture__dati_8h.html#abe4076ab2e7aff3f56f45822352824ad',1,'strutture_dati.h']]],
+  ['max_5fcalorie',['MAX_CALORIE',['../strutture__dati_8h.html#ab19a79a983c811e48527f34a5f2555f3',1,'strutture_dati.h']]],
+  ['max_5fcomplessita',['MAX_COMPLESSITA',['../strutture__dati_8h.html#a9807196f431bdf38c85d446d6f33e755',1,'strutture_dati.h']]],
+  ['max_5fgiorno',['MAX_GIORNO',['../strutture__dati_8h.html#a621e6dff6cb0b798f6ca47b15f7d7fcb',1,'strutture_dati.h']]],
+  ['max_5flunghezza_5fdata',['MAX_LUNGHEZZA_DATA',['../strutture__dati_8h.html#a26720d51f72efe1f60f719a5033a6b18',1,'strutture_dati.h']]],
+  ['max_5flunghezza_5flink',['MAX_LUNGHEZZA_LINK',['../strutture__dati_8h.html#ad7be6f9e50f016d75d6919b5584f305e',1,'strutture_dati.h']]],
+  ['max_5flunghezza_5fusername',['MAX_LUNGHEZZA_USERNAME',['../strutture__dati_8h.html#ae3e9b53d401f4303fa1a2007753aacd4',1,'strutture_dati.h']]],
+  ['max_5fmese',['MAX_MESE',['../strutture__dati_8h.html#a32df43954eb6eea4b4e07751068f97f7',1,'strutture_dati.h']]],
+  ['max_5fnumero_5fpasti',['MAX_NUMERO_PASTI',['../strutture__dati_8h.html#a3b8dd0b04fc30904c8311f8fa6576f3c',1,'strutture_dati.h']]],
+  ['max_5fpersone',['MAX_PERSONE',['../strutture__dati_8h.html#aaa8966fdf0ca9a76fc41f5093381a8d0',1,'strutture_dati.h']]],
+  ['max_5fquantita',['MAX_QUANTITA',['../strutture__dati_8h.html#a35ee80e32c736509726f605f6e8f53bf',1,'strutture_dati.h']]],
+  ['max_5fscelta_5fricerca',['MAX_SCELTA_RICERCA',['../strutture__dati_8h.html#a81e401994740157059b2dfbabe71f717',1,'strutture_dati.h']]],
+  ['max_5ftempo_5fpreparazione',['MAX_TEMPO_PREPARAZIONE',['../strutture__dati_8h.html#a4321385828dc8d8dfba30d7b1e7e2816',1,'strutture_dati.h']]],
+  ['min_5falimenti_5fricerca',['MIN_ALIMENTI_RICERCA',['../strutture__dati_8h.html#a9293f74d74a7ed6dc8075a790d5761ba',1,'strutture_dati.h']]],
+  ['min_5fanno',['MIN_ANNO',['../strutture__dati_8h.html#a98a0525423565ba022422c2419977f44',1,'strutture_dati.h']]],
+  ['min_5fgiorno',['MIN_GIORNO',['../strutture__dati_8h.html#a1267e06d3a20d32eba3324abd0cf0587',1,'strutture_dati.h']]],
+  ['min_5flunghezza_5fdata',['MIN_LUNGHEZZA_DATA',['../strutture__dati_8h.html#aaf4d56e06f9cb9c0ced0fc4923cdd793',1,'strutture_dati.h']]],
+  ['min_5flunghezza_5flink',['MIN_LUNGHEZZA_LINK',['../strutture__dati_8h.html#a19f41418dbfb5de3e5698479c9fc76a3',1,'strutture_dati.h']]],
+  ['min_5flunghezza_5fusername',['MIN_LUNGHEZZA_USERNAME',['../strutture__dati_8h.html#ad793682d2769b52aa59c6c6cba455ff5',1,'strutture_dati.h']]],
+  ['min_5fmese',['MIN_MESE',['../strutture__dati_8h.html#a63cfe9c618afda8d9c1bd81f8f929bff',1,'strutture_dati.h']]]
+];
