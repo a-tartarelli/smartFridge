@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['il_20sistema_20_27smart_20fridge_27_20trova_20la_20sua_20applicazione_20in_20ambiente_20domestico_20e_20si_20affianca_20a_20quelle_20che_20sono_20le_20abitudini_20alimentari_20familiari_2c_20consigliando_20piatti_20in_20base_20ai_20cibi_20presenti_20in_20frigorifero_20cosi_27_20che_20si_20abbia_20sempre_20fantasia_20per_20la_20realizzazione_20di_20ricette_20piu_27_20o_20meno_20complesse_20di_20giorno_20in_20giorno_2e',['Il sistema &apos;Smart Fridge&apos; trova la sua applicazione in ambiente domestico e si affianca a quelle che sono le abitudini alimentari familiari, consigliando piatti in base ai cibi presenti in frigorifero cosi&apos; che si abbia sempre fantasia per la realizzazione di ricette piu&apos; o meno complesse di giorno in giorno.',['../index.html',1,'']]]
-];
