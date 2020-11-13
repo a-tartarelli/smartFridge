@@ -105,7 +105,7 @@ cd build/bin
 
 ## [Docs](docs/Documentazione.pdf)
 Additional docs can be found under _doc_ folder.
-It also been generated the documentation of the code using the tool Doxygen. Click [here to](.doc/Documentazione%doxygen/index.html) see it
+It also been generated the documentation of the code using the tool Doxygen. Click [here to](https://gmurro.github.io/smartFridge/) see it.
 
 
 ## Built With
