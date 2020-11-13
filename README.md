@@ -94,7 +94,7 @@ cmake --build build --target test
 
 ## **4. Run**
 
-> All binaries are under `build/bin/` folder. You can run the run with the following command
+> All binaries are under `build/bin/` folder. You can run them with the following command
 
 ```console
 cd build/bin
