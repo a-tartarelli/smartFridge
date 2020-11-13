@@ -1,9 +1,0 @@
-/mnt/c/Users/peppe/Desktop/proj/SmartFridge/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/peppe/Desktop/proj/SmartFridge/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/peppe/Desktop/proj/SmartFridge/build/src/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/peppe/Desktop/proj/SmartFridge/build/src/CMakeFiles/edit_cache.dir
-/mnt/c/Users/peppe/Desktop/proj/SmartFridge/build/src/CMakeFiles/smartfridge.dir
-/mnt/c/Users/peppe/Desktop/proj/SmartFridge/build/src/CMakeFiles/mySmartFridge.dir
-/mnt/c/Users/peppe/Desktop/proj/SmartFridge/build/test/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/peppe/Desktop/proj/SmartFridge/build/test/CMakeFiles/test.dir
-/mnt/c/Users/peppe/Desktop/proj/SmartFridge/build/test/CMakeFiles/edit_cache.dir

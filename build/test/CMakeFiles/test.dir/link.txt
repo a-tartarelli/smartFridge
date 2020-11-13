@@ -1,1 +1,0 @@
-/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/test.dir/test.c.o CMakeFiles/test.dir/inizializza_vettori.c.o  -o ../bin/test  ../lib/libsmartfridge.a -lcunit 
