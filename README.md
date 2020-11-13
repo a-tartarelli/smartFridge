@@ -1,7 +1,7 @@
-# :fork_knife_plate: Smart Fridge
+# :fork_and_knife: Smart Fridge
 
 
-**_Smart Fridge_** Command line system written in C, that manages the food in the fridge and offers recipes.
+**_Smart Fridge_** ia a ommand line system written in C, that manages the food in the fridge and offers recipes.
 This project has been implemented for educational purposes for the final exam of the "Computer Science Laboratory" course of the degree in ITPS of the University of Bari.
 
 
@@ -105,7 +105,7 @@ cd build/bin
 
 ## [Docs](./doc/Documentazione.pdf)
 Additional docs can be found under _doc_ folder.
-It also been generated the documentation of the code using the tool Doxygen. Click [here to](.doc/'Documentazione doxygen'/index.html) see it
+It also been generated the documentation of the code using the tool Doxygen. Click [here to](.doc/Documentazione%doxygen/index.html) see it
 
 
 ## Built With
