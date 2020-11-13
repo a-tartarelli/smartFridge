@@ -1,7 +1,7 @@
 # :fork_and_knife: Smart Fridge
 
 
-**_Smart Fridge_** ia a ommand line system written in C, that manages the food in the fridge and offers recipes.
+**_Smart Fridge_** ia a command line system written in C, that manages the food in the fridge and offers recipes.
 This project has been implemented for educational purposes for the final exam of the "Computer Science Laboratory" course of the degree in ITPS of the University of Bari.
 
 
