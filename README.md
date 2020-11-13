@@ -103,7 +103,7 @@ cd build/bin
 ```
 
 
-## [Docs](./doc/Documentazione.pdf)
+## [Docs](docs/Documentazione.pdf)
 Additional docs can be found under _doc_ folder.
 It also been generated the documentation of the code using the tool Doxygen. Click [here to](.doc/Documentazione%doxygen/index.html) see it
 
