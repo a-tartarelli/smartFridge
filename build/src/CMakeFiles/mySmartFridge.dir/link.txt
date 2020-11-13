@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/mySmartFridge.dir/main.c.o  -o ../bin/mySmartFridge  ../lib/libsmartfridge.a 

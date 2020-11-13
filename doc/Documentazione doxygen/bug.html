@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.14"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Caso di studio Murro-Tartarelli: Lista dei bug</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">Caso di studio Murro-Tartarelli
+   &#160;<span id="projectnumber">1.0</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.14 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+var searchBox = new SearchBox("searchBox", "search",false,'Cerca');
+/* @license-end */
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+$(function() {
+  initMenu('',true,false,'search.php','Cerca');
+  $(document).ready(function() { init_search(); });
+});
+/* @license-end */</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="headertitle">
+<div class="title">Lista dei bug </div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="textblock"><dl class="reflist">
+<dt><a class="anchor" id="_bug000011"></a>Globale <a class="el" href="elaborazione__alimenti_8h.html#aaa75e343e4a901e173fa3131c64a3c67">apri_frigo</a>  (const alimento alimenti_frigo[], unsigned short int numero_alimenti)</dt>
+<dd>se il secondo parametro e' troppo piccolo, potrebebro essere visualizzati meno alimenti di quelli presenti nel vettore, producendo quindi un errore logico a runtime.  </dd>
+<dt><a class="anchor" id="_bug000003"></a>File <a class="el" href="carica__file_8h.html">carica_file.h</a>  </dt>
+<dd>Se i file da aprire non esistono, il programma chiamante non termina correttamente.  </dd>
+<dt><a class="anchor" id="_bug000012"></a>Globale <a class="el" href="elaborazione__ricette_8h.html#aa254cf3112b0d17dc0bd82b3dafd7a11">input_aggiungi_ricetta</a>  (char *nome_file, ricetta *ricettario, unsigned short int numero_ricette)</dt>
+<dd>se il nome della ricetta che si vuole aggiungere e' gia' presente nel ricettario, essa verra' comunque aggiunta  </dd>
+<dt><a class="anchor" id="_bug000013"></a>Globale <a class="el" href="elaborazione__ricette_8h.html#a6523000d439cbd2393f077df5f2c879d">input_insieme_alimenti</a>  (char insieme_alimenti[][LUNGHEZZA_NOME], unsigned short int max_insime)</dt>
+<dd>passare un valore negativo o uguale a 0 attraverso il parametro "max_insieme" causerebbe un mal funzionamento della funzione  </dd>
+<dt><a class="anchor" id="_bug000005"></a>Globale <a class="el" href="controlli_8h.html#a935dddc606cb58544b0998166ec1e5db">inserisci_input_caratteri</a>  (char messaggio[], unsigned short int lunghezza_input)</dt>
+<dd>se il secondo parametro e' troppo piccolo, potrebebro essere letti meno caratteri di quelli inseriti, producendo quindi un errore logico a runtime.  </dd>
+<dt><a class="anchor" id="_bug000006"></a>Globale <a class="el" href="controlli_8h.html#a7b682edffeb081ddf50e415a1186bb2d">inserisci_input_caratteri_spazio</a>  (char messaggio[], unsigned short int lunghezza_input)</dt>
+<dd>se il secondo parametro e' troppo piccolo, potrebebro essere letti meno caratteri di quelli inseriti, producendo quindi un errore logico a runtime.  </dd>
+<dt><a class="anchor" id="_bug000010"></a>Globale <a class="el" href="controlli_8h.html#a1eb32cbb9da88456b52cbb8d202e047a">inserisci_input_data</a>  (char messaggio[], unsigned short int lunghezza_input)</dt>
+<dd>se il secondo parametro e' troppo piccolo, potrebebro essere letti meno caratteri di quelli inseriti, producendo quindi un errore logico a runtime.  </dd>
+<dt><a class="anchor" id="_bug000008"></a>Globale <a class="el" href="controlli_8h.html#a9e6bfac39acbe8373c668666ccad521f">inserisci_input_float</a>  (char messaggio[], unsigned short int lunghezza_input)</dt>
+<dd>se il secondo parametro e' troppo piccolo, potrebebro essere letti meno caratteri di quelli inseriti, producendo quindi un errore logico a runtime.  </dd>
+<dt><a class="anchor" id="_bug000009"></a>Globale <a class="el" href="controlli_8h.html#a4282caeec2c91ac24f26e8769659b22e">inserisci_input_float_qb</a>  (char messaggio[], unsigned short int lunghezza_input)</dt>
+<dd>se il secondo parametro e' troppo piccolo, potrebebro essere letti meno caratteri di quelli inseriti, producendo quindi un errore logico a runtime.  </dd>
+<dt><a class="anchor" id="_bug000004"></a>Globale <a class="el" href="controlli_8h.html#a8fb21916626528a04723e2aa7b1ab1e0">inserisci_input_intero</a>  (char messaggio[], unsigned short int lunghezza_input)</dt>
+<dd>se il secondo parametro e' troppo piccolo, potrebebro essere letti meno caratteri di quelli inseriti, producendo quindi un errore logico a runtime.  </dd>
+<dt><a class="anchor" id="_bug000007"></a>Globale <a class="el" href="controlli_8h.html#a1b1d27090a36e98c287cb411f077284d">inserisci_input_link</a>  (char messaggio[], unsigned short int lunghezza_input)</dt>
+<dd>se il secondo parametro e' troppo piccolo, potrebebro essere letti meno caratteri di quelli inseriti, producendo quindi un errore logico a runtime.  </dd>
+<dt><a class="anchor" id="_bug000001"></a>Globale <a class="el" href="carica__file_8h.html#a247cfa24f4a2e997899d8d3b2af5b328">popolazione_file_alimenti</a>  (char *nome_file, unsigned short int numero_alimenti)</dt>
+<dd>da codice deve essere inizializzato almeno un elemento nel vettore alimenti_frigo altrimenti si avranno errori logici a runtime  </dd>
+<dt><a class="anchor" id="_bug000002"></a>Globale <a class="el" href="carica__file_8h.html#a43205e90e67b3816a5153740fb0f76d4">popolazione_file_ricette</a>  (char *nome_file, unsigned short int numero_ricette)</dt>
+<dd>da codice deve essere inizializzato almeno un elemento nel vettore ricettario altrimenti si avranno errori logici a runtime </dd>
+</dl>
+</div></div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.14
+</small></address>
+</body>
+</html>
