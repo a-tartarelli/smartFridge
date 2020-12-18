@@ -2,7 +2,7 @@
 
 
 **_Smart Fridge_** ia a command line system written in C, that manages the food in the fridge and offers recipes.
-This project has been implemented for educational purposes for the final exam of the "Computer Science Laboratory" course of the degree in ITPS of the University of Bari.
+This project has been implemented for educational purposes for the final exam of the "Computer Science Laboratory" course of the degree in ITPS of the University of Bari held by Prof. Cataldo Musto.
 
 
 
